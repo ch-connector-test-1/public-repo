@@ -1,0 +1,811 @@
+--- copy 1 ---
+Patient Case Report
+
+Patient ID: 49217-BZ
+Patient name: Marko Juric
+Date of birth: 14 March 1967
+Attending physician: Dr. Ana Kovacevic, MD - Internal Medicine
+Facility: St. Catherine Clinic, Zagreb
+Visit date: 10 November 2027
+
+Presenting complaint
+Patient presents with recurrent morning headaches, intermittent dizziness and fatigue persisting over the last eleven weeks. Reports two episodes of blurred vision while at work. No chest pain, no shortness of breath at rest.
+
+Vital signs
+Blood pressure 162/98 mmHg (repeat 158/96 mmHg after ten minutes seated). Heart rate 88 bpm, regular. Temperature 36.7 C. Respiratory rate 16/min. Oxygen saturation 98% on room air. Weight 94.2 kg, height 178 cm, BMI 29.7.
+
+Laboratory findings
+Fasting glucose 7.4 mmol/L. HbA1c 6.8%. Total cholesterol 6.9 mmol/L, LDL 4.5 mmol/L, HDL 0.9 mmol/L, triglycerides 3.1 mmol/L. Serum creatinine 104 umol/L, eGFR 72 mL/min/1.73m2. Urinalysis positive for microalbuminuria (48 mg/g creatinine). Liver enzymes within reference range.
+
+Assessment
+Stage 2 hypertension with evidence of early hypertensive nephropathy. Metabolic syndrome: impaired glucose tolerance bordering on type 2 diabetes mellitus, mixed dyslipidaemia and central obesity. Estimated ten-year cardiovascular risk is high.
+
+Plan
+Start perindopril 5 mg once daily, titrate to 10 mg after four weeks if blood pressure remains above 140/90 mmHg. Start atorvastatin 20 mg nightly. Metformin 500 mg twice daily with meals. Referral to clinical dietitian and structured exercise programme. Home blood pressure diary. Repeat lipid panel, HbA1c and renal function in twelve weeks. Ophthalmology review for hypertensive retinopathy screening.
+
+Notes
+Patient consented to sharing of this record with the cardiology department. Insurance policy HR-4471-20885. Contact: marko.juric@example.hr, +385 91 442 7781. Record prepared by Dr. Ana Kovacevic, licence 118-4420.
+
+GITHUB-RC3-TYPE-TXT-11NOV
+
+--- copy 2 ---
+Patient Case Report
+
+Patient ID: 49217-BZ
+Patient name: Marko Juric
+Date of birth: 14 March 1967
+Attending physician: Dr. Ana Kovacevic, MD - Internal Medicine
+Facility: St. Catherine Clinic, Zagreb
+Visit date: 10 November 2027
+
+Presenting complaint
+Patient presents with recurrent morning headaches, intermittent dizziness and fatigue persisting over the last eleven weeks. Reports two episodes of blurred vision while at work. No chest pain, no shortness of breath at rest.
+
+Vital signs
+Blood pressure 162/98 mmHg (repeat 158/96 mmHg after ten minutes seated). Heart rate 88 bpm, regular. Temperature 36.7 C. Respiratory rate 16/min. Oxygen saturation 98% on room air. Weight 94.2 kg, height 178 cm, BMI 29.7.
+
+Laboratory findings
+Fasting glucose 7.4 mmol/L. HbA1c 6.8%. Total cholesterol 6.9 mmol/L, LDL 4.5 mmol/L, HDL 0.9 mmol/L, triglycerides 3.1 mmol/L. Serum creatinine 104 umol/L, eGFR 72 mL/min/1.73m2. Urinalysis positive for microalbuminuria (48 mg/g creatinine). Liver enzymes within reference range.
+
+Assessment
+Stage 2 hypertension with evidence of early hypertensive nephropathy. Metabolic syndrome: impaired glucose tolerance bordering on type 2 diabetes mellitus, mixed dyslipidaemia and central obesity. Estimated ten-year cardiovascular risk is high.
+
+Plan
+Start perindopril 5 mg once daily, titrate to 10 mg after four weeks if blood pressure remains above 140/90 mmHg. Start atorvastatin 20 mg nightly. Metformin 500 mg twice daily with meals. Referral to clinical dietitian and structured exercise programme. Home blood pressure diary. Repeat lipid panel, HbA1c and renal function in twelve weeks. Ophthalmology review for hypertensive retinopathy screening.
+
+Notes
+Patient consented to sharing of this record with the cardiology department. Insurance policy HR-4471-20885. Contact: marko.juric@example.hr, +385 91 442 7781. Record prepared by Dr. Ana Kovacevic, licence 118-4420.
+
+GITHUB-RC3-TYPE-TXT-11NOV
+
+--- copy 3 ---
+Patient Case Report
+
+Patient ID: 49217-BZ
+Patient name: Marko Juric
+Date of birth: 14 March 1967
+Attending physician: Dr. Ana Kovacevic, MD - Internal Medicine
+Facility: St. Catherine Clinic, Zagreb
+Visit date: 10 November 2027
+
+Presenting complaint
+Patient presents with recurrent morning headaches, intermittent dizziness and fatigue persisting over the last eleven weeks. Reports two episodes of blurred vision while at work. No chest pain, no shortness of breath at rest.
+
+Vital signs
+Blood pressure 162/98 mmHg (repeat 158/96 mmHg after ten minutes seated). Heart rate 88 bpm, regular. Temperature 36.7 C. Respiratory rate 16/min. Oxygen saturation 98% on room air. Weight 94.2 kg, height 178 cm, BMI 29.7.
+
+Laboratory findings
+Fasting glucose 7.4 mmol/L. HbA1c 6.8%. Total cholesterol 6.9 mmol/L, LDL 4.5 mmol/L, HDL 0.9 mmol/L, triglycerides 3.1 mmol/L. Serum creatinine 104 umol/L, eGFR 72 mL/min/1.73m2. Urinalysis positive for microalbuminuria (48 mg/g creatinine). Liver enzymes within reference range.
+
+Assessment
+Stage 2 hypertension with evidence of early hypertensive nephropathy. Metabolic syndrome: impaired glucose tolerance bordering on type 2 diabetes mellitus, mixed dyslipidaemia and central obesity. Estimated ten-year cardiovascular risk is high.
+
+Plan
+Start perindopril 5 mg once daily, titrate to 10 mg after four weeks if blood pressure remains above 140/90 mmHg. Start atorvastatin 20 mg nightly. Metformin 500 mg twice daily with meals. Referral to clinical dietitian and structured exercise programme. Home blood pressure diary. Repeat lipid panel, HbA1c and renal function in twelve weeks. Ophthalmology review for hypertensive retinopathy screening.
+
+Notes
+Patient consented to sharing of this record with the cardiology department. Insurance policy HR-4471-20885. Contact: marko.juric@example.hr, +385 91 442 7781. Record prepared by Dr. Ana Kovacevic, licence 118-4420.
+
+GITHUB-RC3-TYPE-TXT-11NOV
+
+--- copy 4 ---
+Patient Case Report
+
+Patient ID: 49217-BZ
+Patient name: Marko Juric
+Date of birth: 14 March 1967
+Attending physician: Dr. Ana Kovacevic, MD - Internal Medicine
+Facility: St. Catherine Clinic, Zagreb
+Visit date: 10 November 2027
+
+Presenting complaint
+Patient presents with recurrent morning headaches, intermittent dizziness and fatigue persisting over the last eleven weeks. Reports two episodes of blurred vision while at work. No chest pain, no shortness of breath at rest.
+
+Vital signs
+Blood pressure 162/98 mmHg (repeat 158/96 mmHg after ten minutes seated). Heart rate 88 bpm, regular. Temperature 36.7 C. Respiratory rate 16/min. Oxygen saturation 98% on room air. Weight 94.2 kg, height 178 cm, BMI 29.7.
+
+Laboratory findings
+Fasting glucose 7.4 mmol/L. HbA1c 6.8%. Total cholesterol 6.9 mmol/L, LDL 4.5 mmol/L, HDL 0.9 mmol/L, triglycerides 3.1 mmol/L. Serum creatinine 104 umol/L, eGFR 72 mL/min/1.73m2. Urinalysis positive for microalbuminuria (48 mg/g creatinine). Liver enzymes within reference range.
+
+Assessment
+Stage 2 hypertension with evidence of early hypertensive nephropathy. Metabolic syndrome: impaired glucose tolerance bordering on type 2 diabetes mellitus, mixed dyslipidaemia and central obesity. Estimated ten-year cardiovascular risk is high.
+
+Plan
+Start perindopril 5 mg once daily, titrate to 10 mg after four weeks if blood pressure remains above 140/90 mmHg. Start atorvastatin 20 mg nightly. Metformin 500 mg twice daily with meals. Referral to clinical dietitian and structured exercise programme. Home blood pressure diary. Repeat lipid panel, HbA1c and renal function in twelve weeks. Ophthalmology review for hypertensive retinopathy screening.
+
+Notes
+Patient consented to sharing of this record with the cardiology department. Insurance policy HR-4471-20885. Contact: marko.juric@example.hr, +385 91 442 7781. Record prepared by Dr. Ana Kovacevic, licence 118-4420.
+
+GITHUB-RC3-TYPE-TXT-11NOV
+
+--- copy 5 ---
+Patient Case Report
+
+Patient ID: 49217-BZ
+Patient name: Marko Juric
+Date of birth: 14 March 1967
+Attending physician: Dr. Ana Kovacevic, MD - Internal Medicine
+Facility: St. Catherine Clinic, Zagreb
+Visit date: 10 November 2027
+
+Presenting complaint
+Patient presents with recurrent morning headaches, intermittent dizziness and fatigue persisting over the last eleven weeks. Reports two episodes of blurred vision while at work. No chest pain, no shortness of breath at rest.
+
+Vital signs
+Blood pressure 162/98 mmHg (repeat 158/96 mmHg after ten minutes seated). Heart rate 88 bpm, regular. Temperature 36.7 C. Respiratory rate 16/min. Oxygen saturation 98% on room air. Weight 94.2 kg, height 178 cm, BMI 29.7.
+
+Laboratory findings
+Fasting glucose 7.4 mmol/L. HbA1c 6.8%. Total cholesterol 6.9 mmol/L, LDL 4.5 mmol/L, HDL 0.9 mmol/L, triglycerides 3.1 mmol/L. Serum creatinine 104 umol/L, eGFR 72 mL/min/1.73m2. Urinalysis positive for microalbuminuria (48 mg/g creatinine). Liver enzymes within reference range.
+
+Assessment
+Stage 2 hypertension with evidence of early hypertensive nephropathy. Metabolic syndrome: impaired glucose tolerance bordering on type 2 diabetes mellitus, mixed dyslipidaemia and central obesity. Estimated ten-year cardiovascular risk is high.
+
+Plan
+Start perindopril 5 mg once daily, titrate to 10 mg after four weeks if blood pressure remains above 140/90 mmHg. Start atorvastatin 20 mg nightly. Metformin 500 mg twice daily with meals. Referral to clinical dietitian and structured exercise programme. Home blood pressure diary. Repeat lipid panel, HbA1c and renal function in twelve weeks. Ophthalmology review for hypertensive retinopathy screening.
+
+Notes
+Patient consented to sharing of this record with the cardiology department. Insurance policy HR-4471-20885. Contact: marko.juric@example.hr, +385 91 442 7781. Record prepared by Dr. Ana Kovacevic, licence 118-4420.
+
+GITHUB-RC3-TYPE-TXT-11NOV
+
+--- copy 6 ---
+Patient Case Report
+
+Patient ID: 49217-BZ
+Patient name: Marko Juric
+Date of birth: 14 March 1967
+Attending physician: Dr. Ana Kovacevic, MD - Internal Medicine
+Facility: St. Catherine Clinic, Zagreb
+Visit date: 10 November 2027
+
+Presenting complaint
+Patient presents with recurrent morning headaches, intermittent dizziness and fatigue persisting over the last eleven weeks. Reports two episodes of blurred vision while at work. No chest pain, no shortness of breath at rest.
+
+Vital signs
+Blood pressure 162/98 mmHg (repeat 158/96 mmHg after ten minutes seated). Heart rate 88 bpm, regular. Temperature 36.7 C. Respiratory rate 16/min. Oxygen saturation 98% on room air. Weight 94.2 kg, height 178 cm, BMI 29.7.
+
+Laboratory findings
+Fasting glucose 7.4 mmol/L. HbA1c 6.8%. Total cholesterol 6.9 mmol/L, LDL 4.5 mmol/L, HDL 0.9 mmol/L, triglycerides 3.1 mmol/L. Serum creatinine 104 umol/L, eGFR 72 mL/min/1.73m2. Urinalysis positive for microalbuminuria (48 mg/g creatinine). Liver enzymes within reference range.
+
+Assessment
+Stage 2 hypertension with evidence of early hypertensive nephropathy. Metabolic syndrome: impaired glucose tolerance bordering on type 2 diabetes mellitus, mixed dyslipidaemia and central obesity. Estimated ten-year cardiovascular risk is high.
+
+Plan
+Start perindopril 5 mg once daily, titrate to 10 mg after four weeks if blood pressure remains above 140/90 mmHg. Start atorvastatin 20 mg nightly. Metformin 500 mg twice daily with meals. Referral to clinical dietitian and structured exercise programme. Home blood pressure diary. Repeat lipid panel, HbA1c and renal function in twelve weeks. Ophthalmology review for hypertensive retinopathy screening.
+
+Notes
+Patient consented to sharing of this record with the cardiology department. Insurance policy HR-4471-20885. Contact: marko.juric@example.hr, +385 91 442 7781. Record prepared by Dr. Ana Kovacevic, licence 118-4420.
+
+GITHUB-RC3-TYPE-TXT-11NOV
+
+--- copy 7 ---
+Patient Case Report
+
+Patient ID: 49217-BZ
+Patient name: Marko Juric
+Date of birth: 14 March 1967
+Attending physician: Dr. Ana Kovacevic, MD - Internal Medicine
+Facility: St. Catherine Clinic, Zagreb
+Visit date: 10 November 2027
+
+Presenting complaint
+Patient presents with recurrent morning headaches, intermittent dizziness and fatigue persisting over the last eleven weeks. Reports two episodes of blurred vision while at work. No chest pain, no shortness of breath at rest.
+
+Vital signs
+Blood pressure 162/98 mmHg (repeat 158/96 mmHg after ten minutes seated). Heart rate 88 bpm, regular. Temperature 36.7 C. Respiratory rate 16/min. Oxygen saturation 98% on room air. Weight 94.2 kg, height 178 cm, BMI 29.7.
+
+Laboratory findings
+Fasting glucose 7.4 mmol/L. HbA1c 6.8%. Total cholesterol 6.9 mmol/L, LDL 4.5 mmol/L, HDL 0.9 mmol/L, triglycerides 3.1 mmol/L. Serum creatinine 104 umol/L, eGFR 72 mL/min/1.73m2. Urinalysis positive for microalbuminuria (48 mg/g creatinine). Liver enzymes within reference range.
+
+Assessment
+Stage 2 hypertension with evidence of early hypertensive nephropathy. Metabolic syndrome: impaired glucose tolerance bordering on type 2 diabetes mellitus, mixed dyslipidaemia and central obesity. Estimated ten-year cardiovascular risk is high.
+
+Plan
+Start perindopril 5 mg once daily, titrate to 10 mg after four weeks if blood pressure remains above 140/90 mmHg. Start atorvastatin 20 mg nightly. Metformin 500 mg twice daily with meals. Referral to clinical dietitian and structured exercise programme. Home blood pressure diary. Repeat lipid panel, HbA1c and renal function in twelve weeks. Ophthalmology review for hypertensive retinopathy screening.
+
+Notes
+Patient consented to sharing of this record with the cardiology department. Insurance policy HR-4471-20885. Contact: marko.juric@example.hr, +385 91 442 7781. Record prepared by Dr. Ana Kovacevic, licence 118-4420.
+
+GITHUB-RC3-TYPE-TXT-11NOV
+
+--- copy 8 ---
+Patient Case Report
+
+Patient ID: 49217-BZ
+Patient name: Marko Juric
+Date of birth: 14 March 1967
+Attending physician: Dr. Ana Kovacevic, MD - Internal Medicine
+Facility: St. Catherine Clinic, Zagreb
+Visit date: 10 November 2027
+
+Presenting complaint
+Patient presents with recurrent morning headaches, intermittent dizziness and fatigue persisting over the last eleven weeks. Reports two episodes of blurred vision while at work. No chest pain, no shortness of breath at rest.
+
+Vital signs
+Blood pressure 162/98 mmHg (repeat 158/96 mmHg after ten minutes seated). Heart rate 88 bpm, regular. Temperature 36.7 C. Respiratory rate 16/min. Oxygen saturation 98% on room air. Weight 94.2 kg, height 178 cm, BMI 29.7.
+
+Laboratory findings
+Fasting glucose 7.4 mmol/L. HbA1c 6.8%. Total cholesterol 6.9 mmol/L, LDL 4.5 mmol/L, HDL 0.9 mmol/L, triglycerides 3.1 mmol/L. Serum creatinine 104 umol/L, eGFR 72 mL/min/1.73m2. Urinalysis positive for microalbuminuria (48 mg/g creatinine). Liver enzymes within reference range.
+
+Assessment
+Stage 2 hypertension with evidence of early hypertensive nephropathy. Metabolic syndrome: impaired glucose tolerance bordering on type 2 diabetes mellitus, mixed dyslipidaemia and central obesity. Estimated ten-year cardiovascular risk is high.
+
+Plan
+Start perindopril 5 mg once daily, titrate to 10 mg after four weeks if blood pressure remains above 140/90 mmHg. Start atorvastatin 20 mg nightly. Metformin 500 mg twice daily with meals. Referral to clinical dietitian and structured exercise programme. Home blood pressure diary. Repeat lipid panel, HbA1c and renal function in twelve weeks. Ophthalmology review for hypertensive retinopathy screening.
+
+Notes
+Patient consented to sharing of this record with the cardiology department. Insurance policy HR-4471-20885. Contact: marko.juric@example.hr, +385 91 442 7781. Record prepared by Dr. Ana Kovacevic, licence 118-4420.
+
+GITHUB-RC3-TYPE-TXT-11NOV
+
+--- copy 9 ---
+Patient Case Report
+
+Patient ID: 49217-BZ
+Patient name: Marko Juric
+Date of birth: 14 March 1967
+Attending physician: Dr. Ana Kovacevic, MD - Internal Medicine
+Facility: St. Catherine Clinic, Zagreb
+Visit date: 10 November 2027
+
+Presenting complaint
+Patient presents with recurrent morning headaches, intermittent dizziness and fatigue persisting over the last eleven weeks. Reports two episodes of blurred vision while at work. No chest pain, no shortness of breath at rest.
+
+Vital signs
+Blood pressure 162/98 mmHg (repeat 158/96 mmHg after ten minutes seated). Heart rate 88 bpm, regular. Temperature 36.7 C. Respiratory rate 16/min. Oxygen saturation 98% on room air. Weight 94.2 kg, height 178 cm, BMI 29.7.
+
+Laboratory findings
+Fasting glucose 7.4 mmol/L. HbA1c 6.8%. Total cholesterol 6.9 mmol/L, LDL 4.5 mmol/L, HDL 0.9 mmol/L, triglycerides 3.1 mmol/L. Serum creatinine 104 umol/L, eGFR 72 mL/min/1.73m2. Urinalysis positive for microalbuminuria (48 mg/g creatinine). Liver enzymes within reference range.
+
+Assessment
+Stage 2 hypertension with evidence of early hypertensive nephropathy. Metabolic syndrome: impaired glucose tolerance bordering on type 2 diabetes mellitus, mixed dyslipidaemia and central obesity. Estimated ten-year cardiovascular risk is high.
+
+Plan
+Start perindopril 5 mg once daily, titrate to 10 mg after four weeks if blood pressure remains above 140/90 mmHg. Start atorvastatin 20 mg nightly. Metformin 500 mg twice daily with meals. Referral to clinical dietitian and structured exercise programme. Home blood pressure diary. Repeat lipid panel, HbA1c and renal function in twelve weeks. Ophthalmology review for hypertensive retinopathy screening.
+
+Notes
+Patient consented to sharing of this record with the cardiology department. Insurance policy HR-4471-20885. Contact: marko.juric@example.hr, +385 91 442 7781. Record prepared by Dr. Ana Kovacevic, licence 118-4420.
+
+GITHUB-RC3-TYPE-TXT-11NOV
+
+--- copy 10 ---
+Patient Case Report
+
+Patient ID: 49217-BZ
+Patient name: Marko Juric
+Date of birth: 14 March 1967
+Attending physician: Dr. Ana Kovacevic, MD - Internal Medicine
+Facility: St. Catherine Clinic, Zagreb
+Visit date: 10 November 2027
+
+Presenting complaint
+Patient presents with recurrent morning headaches, intermittent dizziness and fatigue persisting over the last eleven weeks. Reports two episodes of blurred vision while at work. No chest pain, no shortness of breath at rest.
+
+Vital signs
+Blood pressure 162/98 mmHg (repeat 158/96 mmHg after ten minutes seated). Heart rate 88 bpm, regular. Temperature 36.7 C. Respiratory rate 16/min. Oxygen saturation 98% on room air. Weight 94.2 kg, height 178 cm, BMI 29.7.
+
+Laboratory findings
+Fasting glucose 7.4 mmol/L. HbA1c 6.8%. Total cholesterol 6.9 mmol/L, LDL 4.5 mmol/L, HDL 0.9 mmol/L, triglycerides 3.1 mmol/L. Serum creatinine 104 umol/L, eGFR 72 mL/min/1.73m2. Urinalysis positive for microalbuminuria (48 mg/g creatinine). Liver enzymes within reference range.
+
+Assessment
+Stage 2 hypertension with evidence of early hypertensive nephropathy. Metabolic syndrome: impaired glucose tolerance bordering on type 2 diabetes mellitus, mixed dyslipidaemia and central obesity. Estimated ten-year cardiovascular risk is high.
+
+Plan
+Start perindopril 5 mg once daily, titrate to 10 mg after four weeks if blood pressure remains above 140/90 mmHg. Start atorvastatin 20 mg nightly. Metformin 500 mg twice daily with meals. Referral to clinical dietitian and structured exercise programme. Home blood pressure diary. Repeat lipid panel, HbA1c and renal function in twelve weeks. Ophthalmology review for hypertensive retinopathy screening.
+
+Notes
+Patient consented to sharing of this record with the cardiology department. Insurance policy HR-4471-20885. Contact: marko.juric@example.hr, +385 91 442 7781. Record prepared by Dr. Ana Kovacevic, licence 118-4420.
+
+GITHUB-RC3-TYPE-TXT-11NOV
+
+--- copy 11 ---
+Patient Case Report
+
+Patient ID: 49217-BZ
+Patient name: Marko Juric
+Date of birth: 14 March 1967
+Attending physician: Dr. Ana Kovacevic, MD - Internal Medicine
+Facility: St. Catherine Clinic, Zagreb
+Visit date: 10 November 2027
+
+Presenting complaint
+Patient presents with recurrent morning headaches, intermittent dizziness and fatigue persisting over the last eleven weeks. Reports two episodes of blurred vision while at work. No chest pain, no shortness of breath at rest.
+
+Vital signs
+Blood pressure 162/98 mmHg (repeat 158/96 mmHg after ten minutes seated). Heart rate 88 bpm, regular. Temperature 36.7 C. Respiratory rate 16/min. Oxygen saturation 98% on room air. Weight 94.2 kg, height 178 cm, BMI 29.7.
+
+Laboratory findings
+Fasting glucose 7.4 mmol/L. HbA1c 6.8%. Total cholesterol 6.9 mmol/L, LDL 4.5 mmol/L, HDL 0.9 mmol/L, triglycerides 3.1 mmol/L. Serum creatinine 104 umol/L, eGFR 72 mL/min/1.73m2. Urinalysis positive for microalbuminuria (48 mg/g creatinine). Liver enzymes within reference range.
+
+Assessment
+Stage 2 hypertension with evidence of early hypertensive nephropathy. Metabolic syndrome: impaired glucose tolerance bordering on type 2 diabetes mellitus, mixed dyslipidaemia and central obesity. Estimated ten-year cardiovascular risk is high.
+
+Plan
+Start perindopril 5 mg once daily, titrate to 10 mg after four weeks if blood pressure remains above 140/90 mmHg. Start atorvastatin 20 mg nightly. Metformin 500 mg twice daily with meals. Referral to clinical dietitian and structured exercise programme. Home blood pressure diary. Repeat lipid panel, HbA1c and renal function in twelve weeks. Ophthalmology review for hypertensive retinopathy screening.
+
+Notes
+Patient consented to sharing of this record with the cardiology department. Insurance policy HR-4471-20885. Contact: marko.juric@example.hr, +385 91 442 7781. Record prepared by Dr. Ana Kovacevic, licence 118-4420.
+
+GITHUB-RC3-TYPE-TXT-11NOV
+
+--- copy 12 ---
+Patient Case Report
+
+Patient ID: 49217-BZ
+Patient name: Marko Juric
+Date of birth: 14 March 1967
+Attending physician: Dr. Ana Kovacevic, MD - Internal Medicine
+Facility: St. Catherine Clinic, Zagreb
+Visit date: 10 November 2027
+
+Presenting complaint
+Patient presents with recurrent morning headaches, intermittent dizziness and fatigue persisting over the last eleven weeks. Reports two episodes of blurred vision while at work. No chest pain, no shortness of breath at rest.
+
+Vital signs
+Blood pressure 162/98 mmHg (repeat 158/96 mmHg after ten minutes seated). Heart rate 88 bpm, regular. Temperature 36.7 C. Respiratory rate 16/min. Oxygen saturation 98% on room air. Weight 94.2 kg, height 178 cm, BMI 29.7.
+
+Laboratory findings
+Fasting glucose 7.4 mmol/L. HbA1c 6.8%. Total cholesterol 6.9 mmol/L, LDL 4.5 mmol/L, HDL 0.9 mmol/L, triglycerides 3.1 mmol/L. Serum creatinine 104 umol/L, eGFR 72 mL/min/1.73m2. Urinalysis positive for microalbuminuria (48 mg/g creatinine). Liver enzymes within reference range.
+
+Assessment
+Stage 2 hypertension with evidence of early hypertensive nephropathy. Metabolic syndrome: impaired glucose tolerance bordering on type 2 diabetes mellitus, mixed dyslipidaemia and central obesity. Estimated ten-year cardiovascular risk is high.
+
+Plan
+Start perindopril 5 mg once daily, titrate to 10 mg after four weeks if blood pressure remains above 140/90 mmHg. Start atorvastatin 20 mg nightly. Metformin 500 mg twice daily with meals. Referral to clinical dietitian and structured exercise programme. Home blood pressure diary. Repeat lipid panel, HbA1c and renal function in twelve weeks. Ophthalmology review for hypertensive retinopathy screening.
+
+Notes
+Patient consented to sharing of this record with the cardiology department. Insurance policy HR-4471-20885. Contact: marko.juric@example.hr, +385 91 442 7781. Record prepared by Dr. Ana Kovacevic, licence 118-4420.
+
+GITHUB-RC3-TYPE-TXT-11NOV
+
+--- copy 13 ---
+Patient Case Report
+
+Patient ID: 49217-BZ
+Patient name: Marko Juric
+Date of birth: 14 March 1967
+Attending physician: Dr. Ana Kovacevic, MD - Internal Medicine
+Facility: St. Catherine Clinic, Zagreb
+Visit date: 10 November 2027
+
+Presenting complaint
+Patient presents with recurrent morning headaches, intermittent dizziness and fatigue persisting over the last eleven weeks. Reports two episodes of blurred vision while at work. No chest pain, no shortness of breath at rest.
+
+Vital signs
+Blood pressure 162/98 mmHg (repeat 158/96 mmHg after ten minutes seated). Heart rate 88 bpm, regular. Temperature 36.7 C. Respiratory rate 16/min. Oxygen saturation 98% on room air. Weight 94.2 kg, height 178 cm, BMI 29.7.
+
+Laboratory findings
+Fasting glucose 7.4 mmol/L. HbA1c 6.8%. Total cholesterol 6.9 mmol/L, LDL 4.5 mmol/L, HDL 0.9 mmol/L, triglycerides 3.1 mmol/L. Serum creatinine 104 umol/L, eGFR 72 mL/min/1.73m2. Urinalysis positive for microalbuminuria (48 mg/g creatinine). Liver enzymes within reference range.
+
+Assessment
+Stage 2 hypertension with evidence of early hypertensive nephropathy. Metabolic syndrome: impaired glucose tolerance bordering on type 2 diabetes mellitus, mixed dyslipidaemia and central obesity. Estimated ten-year cardiovascular risk is high.
+
+Plan
+Start perindopril 5 mg once daily, titrate to 10 mg after four weeks if blood pressure remains above 140/90 mmHg. Start atorvastatin 20 mg nightly. Metformin 500 mg twice daily with meals. Referral to clinical dietitian and structured exercise programme. Home blood pressure diary. Repeat lipid panel, HbA1c and renal function in twelve weeks. Ophthalmology review for hypertensive retinopathy screening.
+
+Notes
+Patient consented to sharing of this record with the cardiology department. Insurance policy HR-4471-20885. Contact: marko.juric@example.hr, +385 91 442 7781. Record prepared by Dr. Ana Kovacevic, licence 118-4420.
+
+GITHUB-RC3-TYPE-TXT-11NOV
+
+--- copy 14 ---
+Patient Case Report
+
+Patient ID: 49217-BZ
+Patient name: Marko Juric
+Date of birth: 14 March 1967
+Attending physician: Dr. Ana Kovacevic, MD - Internal Medicine
+Facility: St. Catherine Clinic, Zagreb
+Visit date: 10 November 2027
+
+Presenting complaint
+Patient presents with recurrent morning headaches, intermittent dizziness and fatigue persisting over the last eleven weeks. Reports two episodes of blurred vision while at work. No chest pain, no shortness of breath at rest.
+
+Vital signs
+Blood pressure 162/98 mmHg (repeat 158/96 mmHg after ten minutes seated). Heart rate 88 bpm, regular. Temperature 36.7 C. Respiratory rate 16/min. Oxygen saturation 98% on room air. Weight 94.2 kg, height 178 cm, BMI 29.7.
+
+Laboratory findings
+Fasting glucose 7.4 mmol/L. HbA1c 6.8%. Total cholesterol 6.9 mmol/L, LDL 4.5 mmol/L, HDL 0.9 mmol/L, triglycerides 3.1 mmol/L. Serum creatinine 104 umol/L, eGFR 72 mL/min/1.73m2. Urinalysis positive for microalbuminuria (48 mg/g creatinine). Liver enzymes within reference range.
+
+Assessment
+Stage 2 hypertension with evidence of early hypertensive nephropathy. Metabolic syndrome: impaired glucose tolerance bordering on type 2 diabetes mellitus, mixed dyslipidaemia and central obesity. Estimated ten-year cardiovascular risk is high.
+
+Plan
+Start perindopril 5 mg once daily, titrate to 10 mg after four weeks if blood pressure remains above 140/90 mmHg. Start atorvastatin 20 mg nightly. Metformin 500 mg twice daily with meals. Referral to clinical dietitian and structured exercise programme. Home blood pressure diary. Repeat lipid panel, HbA1c and renal function in twelve weeks. Ophthalmology review for hypertensive retinopathy screening.
+
+Notes
+Patient consented to sharing of this record with the cardiology department. Insurance policy HR-4471-20885. Contact: marko.juric@example.hr, +385 91 442 7781. Record prepared by Dr. Ana Kovacevic, licence 118-4420.
+
+GITHUB-RC3-TYPE-TXT-11NOV
+
+--- copy 15 ---
+Patient Case Report
+
+Patient ID: 49217-BZ
+Patient name: Marko Juric
+Date of birth: 14 March 1967
+Attending physician: Dr. Ana Kovacevic, MD - Internal Medicine
+Facility: St. Catherine Clinic, Zagreb
+Visit date: 10 November 2027
+
+Presenting complaint
+Patient presents with recurrent morning headaches, intermittent dizziness and fatigue persisting over the last eleven weeks. Reports two episodes of blurred vision while at work. No chest pain, no shortness of breath at rest.
+
+Vital signs
+Blood pressure 162/98 mmHg (repeat 158/96 mmHg after ten minutes seated). Heart rate 88 bpm, regular. Temperature 36.7 C. Respiratory rate 16/min. Oxygen saturation 98% on room air. Weight 94.2 kg, height 178 cm, BMI 29.7.
+
+Laboratory findings
+Fasting glucose 7.4 mmol/L. HbA1c 6.8%. Total cholesterol 6.9 mmol/L, LDL 4.5 mmol/L, HDL 0.9 mmol/L, triglycerides 3.1 mmol/L. Serum creatinine 104 umol/L, eGFR 72 mL/min/1.73m2. Urinalysis positive for microalbuminuria (48 mg/g creatinine). Liver enzymes within reference range.
+
+Assessment
+Stage 2 hypertension with evidence of early hypertensive nephropathy. Metabolic syndrome: impaired glucose tolerance bordering on type 2 diabetes mellitus, mixed dyslipidaemia and central obesity. Estimated ten-year cardiovascular risk is high.
+
+Plan
+Start perindopril 5 mg once daily, titrate to 10 mg after four weeks if blood pressure remains above 140/90 mmHg. Start atorvastatin 20 mg nightly. Metformin 500 mg twice daily with meals. Referral to clinical dietitian and structured exercise programme. Home blood pressure diary. Repeat lipid panel, HbA1c and renal function in twelve weeks. Ophthalmology review for hypertensive retinopathy screening.
+
+Notes
+Patient consented to sharing of this record with the cardiology department. Insurance policy HR-4471-20885. Contact: marko.juric@example.hr, +385 91 442 7781. Record prepared by Dr. Ana Kovacevic, licence 118-4420.
+
+GITHUB-RC3-TYPE-TXT-11NOV
+
+--- copy 16 ---
+Patient Case Report
+
+Patient ID: 49217-BZ
+Patient name: Marko Juric
+Date of birth: 14 March 1967
+Attending physician: Dr. Ana Kovacevic, MD - Internal Medicine
+Facility: St. Catherine Clinic, Zagreb
+Visit date: 10 November 2027
+
+Presenting complaint
+Patient presents with recurrent morning headaches, intermittent dizziness and fatigue persisting over the last eleven weeks. Reports two episodes of blurred vision while at work. No chest pain, no shortness of breath at rest.
+
+Vital signs
+Blood pressure 162/98 mmHg (repeat 158/96 mmHg after ten minutes seated). Heart rate 88 bpm, regular. Temperature 36.7 C. Respiratory rate 16/min. Oxygen saturation 98% on room air. Weight 94.2 kg, height 178 cm, BMI 29.7.
+
+Laboratory findings
+Fasting glucose 7.4 mmol/L. HbA1c 6.8%. Total cholesterol 6.9 mmol/L, LDL 4.5 mmol/L, HDL 0.9 mmol/L, triglycerides 3.1 mmol/L. Serum creatinine 104 umol/L, eGFR 72 mL/min/1.73m2. Urinalysis positive for microalbuminuria (48 mg/g creatinine). Liver enzymes within reference range.
+
+Assessment
+Stage 2 hypertension with evidence of early hypertensive nephropathy. Metabolic syndrome: impaired glucose tolerance bordering on type 2 diabetes mellitus, mixed dyslipidaemia and central obesity. Estimated ten-year cardiovascular risk is high.
+
+Plan
+Start perindopril 5 mg once daily, titrate to 10 mg after four weeks if blood pressure remains above 140/90 mmHg. Start atorvastatin 20 mg nightly. Metformin 500 mg twice daily with meals. Referral to clinical dietitian and structured exercise programme. Home blood pressure diary. Repeat lipid panel, HbA1c and renal function in twelve weeks. Ophthalmology review for hypertensive retinopathy screening.
+
+Notes
+Patient consented to sharing of this record with the cardiology department. Insurance policy HR-4471-20885. Contact: marko.juric@example.hr, +385 91 442 7781. Record prepared by Dr. Ana Kovacevic, licence 118-4420.
+
+GITHUB-RC3-TYPE-TXT-11NOV
+
+--- copy 17 ---
+Patient Case Report
+
+Patient ID: 49217-BZ
+Patient name: Marko Juric
+Date of birth: 14 March 1967
+Attending physician: Dr. Ana Kovacevic, MD - Internal Medicine
+Facility: St. Catherine Clinic, Zagreb
+Visit date: 10 November 2027
+
+Presenting complaint
+Patient presents with recurrent morning headaches, intermittent dizziness and fatigue persisting over the last eleven weeks. Reports two episodes of blurred vision while at work. No chest pain, no shortness of breath at rest.
+
+Vital signs
+Blood pressure 162/98 mmHg (repeat 158/96 mmHg after ten minutes seated). Heart rate 88 bpm, regular. Temperature 36.7 C. Respiratory rate 16/min. Oxygen saturation 98% on room air. Weight 94.2 kg, height 178 cm, BMI 29.7.
+
+Laboratory findings
+Fasting glucose 7.4 mmol/L. HbA1c 6.8%. Total cholesterol 6.9 mmol/L, LDL 4.5 mmol/L, HDL 0.9 mmol/L, triglycerides 3.1 mmol/L. Serum creatinine 104 umol/L, eGFR 72 mL/min/1.73m2. Urinalysis positive for microalbuminuria (48 mg/g creatinine). Liver enzymes within reference range.
+
+Assessment
+Stage 2 hypertension with evidence of early hypertensive nephropathy. Metabolic syndrome: impaired glucose tolerance bordering on type 2 diabetes mellitus, mixed dyslipidaemia and central obesity. Estimated ten-year cardiovascular risk is high.
+
+Plan
+Start perindopril 5 mg once daily, titrate to 10 mg after four weeks if blood pressure remains above 140/90 mmHg. Start atorvastatin 20 mg nightly. Metformin 500 mg twice daily with meals. Referral to clinical dietitian and structured exercise programme. Home blood pressure diary. Repeat lipid panel, HbA1c and renal function in twelve weeks. Ophthalmology review for hypertensive retinopathy screening.
+
+Notes
+Patient consented to sharing of this record with the cardiology department. Insurance policy HR-4471-20885. Contact: marko.juric@example.hr, +385 91 442 7781. Record prepared by Dr. Ana Kovacevic, licence 118-4420.
+
+GITHUB-RC3-TYPE-TXT-11NOV
+
+--- copy 18 ---
+Patient Case Report
+
+Patient ID: 49217-BZ
+Patient name: Marko Juric
+Date of birth: 14 March 1967
+Attending physician: Dr. Ana Kovacevic, MD - Internal Medicine
+Facility: St. Catherine Clinic, Zagreb
+Visit date: 10 November 2027
+
+Presenting complaint
+Patient presents with recurrent morning headaches, intermittent dizziness and fatigue persisting over the last eleven weeks. Reports two episodes of blurred vision while at work. No chest pain, no shortness of breath at rest.
+
+Vital signs
+Blood pressure 162/98 mmHg (repeat 158/96 mmHg after ten minutes seated). Heart rate 88 bpm, regular. Temperature 36.7 C. Respiratory rate 16/min. Oxygen saturation 98% on room air. Weight 94.2 kg, height 178 cm, BMI 29.7.
+
+Laboratory findings
+Fasting glucose 7.4 mmol/L. HbA1c 6.8%. Total cholesterol 6.9 mmol/L, LDL 4.5 mmol/L, HDL 0.9 mmol/L, triglycerides 3.1 mmol/L. Serum creatinine 104 umol/L, eGFR 72 mL/min/1.73m2. Urinalysis positive for microalbuminuria (48 mg/g creatinine). Liver enzymes within reference range.
+
+Assessment
+Stage 2 hypertension with evidence of early hypertensive nephropathy. Metabolic syndrome: impaired glucose tolerance bordering on type 2 diabetes mellitus, mixed dyslipidaemia and central obesity. Estimated ten-year cardiovascular risk is high.
+
+Plan
+Start perindopril 5 mg once daily, titrate to 10 mg after four weeks if blood pressure remains above 140/90 mmHg. Start atorvastatin 20 mg nightly. Metformin 500 mg twice daily with meals. Referral to clinical dietitian and structured exercise programme. Home blood pressure diary. Repeat lipid panel, HbA1c and renal function in twelve weeks. Ophthalmology review for hypertensive retinopathy screening.
+
+Notes
+Patient consented to sharing of this record with the cardiology department. Insurance policy HR-4471-20885. Contact: marko.juric@example.hr, +385 91 442 7781. Record prepared by Dr. Ana Kovacevic, licence 118-4420.
+
+GITHUB-RC3-TYPE-TXT-11NOV
+
+--- copy 19 ---
+Patient Case Report
+
+Patient ID: 49217-BZ
+Patient name: Marko Juric
+Date of birth: 14 March 1967
+Attending physician: Dr. Ana Kovacevic, MD - Internal Medicine
+Facility: St. Catherine Clinic, Zagreb
+Visit date: 10 November 2027
+
+Presenting complaint
+Patient presents with recurrent morning headaches, intermittent dizziness and fatigue persisting over the last eleven weeks. Reports two episodes of blurred vision while at work. No chest pain, no shortness of breath at rest.
+
+Vital signs
+Blood pressure 162/98 mmHg (repeat 158/96 mmHg after ten minutes seated). Heart rate 88 bpm, regular. Temperature 36.7 C. Respiratory rate 16/min. Oxygen saturation 98% on room air. Weight 94.2 kg, height 178 cm, BMI 29.7.
+
+Laboratory findings
+Fasting glucose 7.4 mmol/L. HbA1c 6.8%. Total cholesterol 6.9 mmol/L, LDL 4.5 mmol/L, HDL 0.9 mmol/L, triglycerides 3.1 mmol/L. Serum creatinine 104 umol/L, eGFR 72 mL/min/1.73m2. Urinalysis positive for microalbuminuria (48 mg/g creatinine). Liver enzymes within reference range.
+
+Assessment
+Stage 2 hypertension with evidence of early hypertensive nephropathy. Metabolic syndrome: impaired glucose tolerance bordering on type 2 diabetes mellitus, mixed dyslipidaemia and central obesity. Estimated ten-year cardiovascular risk is high.
+
+Plan
+Start perindopril 5 mg once daily, titrate to 10 mg after four weeks if blood pressure remains above 140/90 mmHg. Start atorvastatin 20 mg nightly. Metformin 500 mg twice daily with meals. Referral to clinical dietitian and structured exercise programme. Home blood pressure diary. Repeat lipid panel, HbA1c and renal function in twelve weeks. Ophthalmology review for hypertensive retinopathy screening.
+
+Notes
+Patient consented to sharing of this record with the cardiology department. Insurance policy HR-4471-20885. Contact: marko.juric@example.hr, +385 91 442 7781. Record prepared by Dr. Ana Kovacevic, licence 118-4420.
+
+GITHUB-RC3-TYPE-TXT-11NOV
+
+--- copy 20 ---
+Patient Case Report
+
+Patient ID: 49217-BZ
+Patient name: Marko Juric
+Date of birth: 14 March 1967
+Attending physician: Dr. Ana Kovacevic, MD - Internal Medicine
+Facility: St. Catherine Clinic, Zagreb
+Visit date: 10 November 2027
+
+Presenting complaint
+Patient presents with recurrent morning headaches, intermittent dizziness and fatigue persisting over the last eleven weeks. Reports two episodes of blurred vision while at work. No chest pain, no shortness of breath at rest.
+
+Vital signs
+Blood pressure 162/98 mmHg (repeat 158/96 mmHg after ten minutes seated). Heart rate 88 bpm, regular. Temperature 36.7 C. Respiratory rate 16/min. Oxygen saturation 98% on room air. Weight 94.2 kg, height 178 cm, BMI 29.7.
+
+Laboratory findings
+Fasting glucose 7.4 mmol/L. HbA1c 6.8%. Total cholesterol 6.9 mmol/L, LDL 4.5 mmol/L, HDL 0.9 mmol/L, triglycerides 3.1 mmol/L. Serum creatinine 104 umol/L, eGFR 72 mL/min/1.73m2. Urinalysis positive for microalbuminuria (48 mg/g creatinine). Liver enzymes within reference range.
+
+Assessment
+Stage 2 hypertension with evidence of early hypertensive nephropathy. Metabolic syndrome: impaired glucose tolerance bordering on type 2 diabetes mellitus, mixed dyslipidaemia and central obesity. Estimated ten-year cardiovascular risk is high.
+
+Plan
+Start perindopril 5 mg once daily, titrate to 10 mg after four weeks if blood pressure remains above 140/90 mmHg. Start atorvastatin 20 mg nightly. Metformin 500 mg twice daily with meals. Referral to clinical dietitian and structured exercise programme. Home blood pressure diary. Repeat lipid panel, HbA1c and renal function in twelve weeks. Ophthalmology review for hypertensive retinopathy screening.
+
+Notes
+Patient consented to sharing of this record with the cardiology department. Insurance policy HR-4471-20885. Contact: marko.juric@example.hr, +385 91 442 7781. Record prepared by Dr. Ana Kovacevic, licence 118-4420.
+
+GITHUB-RC3-TYPE-TXT-11NOV
+
+--- copy 21 ---
+Patient Case Report
+
+Patient ID: 49217-BZ
+Patient name: Marko Juric
+Date of birth: 14 March 1967
+Attending physician: Dr. Ana Kovacevic, MD - Internal Medicine
+Facility: St. Catherine Clinic, Zagreb
+Visit date: 10 November 2027
+
+Presenting complaint
+Patient presents with recurrent morning headaches, intermittent dizziness and fatigue persisting over the last eleven weeks. Reports two episodes of blurred vision while at work. No chest pain, no shortness of breath at rest.
+
+Vital signs
+Blood pressure 162/98 mmHg (repeat 158/96 mmHg after ten minutes seated). Heart rate 88 bpm, regular. Temperature 36.7 C. Respiratory rate 16/min. Oxygen saturation 98% on room air. Weight 94.2 kg, height 178 cm, BMI 29.7.
+
+Laboratory findings
+Fasting glucose 7.4 mmol/L. HbA1c 6.8%. Total cholesterol 6.9 mmol/L, LDL 4.5 mmol/L, HDL 0.9 mmol/L, triglycerides 3.1 mmol/L. Serum creatinine 104 umol/L, eGFR 72 mL/min/1.73m2. Urinalysis positive for microalbuminuria (48 mg/g creatinine). Liver enzymes within reference range.
+
+Assessment
+Stage 2 hypertension with evidence of early hypertensive nephropathy. Metabolic syndrome: impaired glucose tolerance bordering on type 2 diabetes mellitus, mixed dyslipidaemia and central obesity. Estimated ten-year cardiovascular risk is high.
+
+Plan
+Start perindopril 5 mg once daily, titrate to 10 mg after four weeks if blood pressure remains above 140/90 mmHg. Start atorvastatin 20 mg nightly. Metformin 500 mg twice daily with meals. Referral to clinical dietitian and structured exercise programme. Home blood pressure diary. Repeat lipid panel, HbA1c and renal function in twelve weeks. Ophthalmology review for hypertensive retinopathy screening.
+
+Notes
+Patient consented to sharing of this record with the cardiology department. Insurance policy HR-4471-20885. Contact: marko.juric@example.hr, +385 91 442 7781. Record prepared by Dr. Ana Kovacevic, licence 118-4420.
+
+GITHUB-RC3-TYPE-TXT-11NOV
+
+--- copy 22 ---
+Patient Case Report
+
+Patient ID: 49217-BZ
+Patient name: Marko Juric
+Date of birth: 14 March 1967
+Attending physician: Dr. Ana Kovacevic, MD - Internal Medicine
+Facility: St. Catherine Clinic, Zagreb
+Visit date: 10 November 2027
+
+Presenting complaint
+Patient presents with recurrent morning headaches, intermittent dizziness and fatigue persisting over the last eleven weeks. Reports two episodes of blurred vision while at work. No chest pain, no shortness of breath at rest.
+
+Vital signs
+Blood pressure 162/98 mmHg (repeat 158/96 mmHg after ten minutes seated). Heart rate 88 bpm, regular. Temperature 36.7 C. Respiratory rate 16/min. Oxygen saturation 98% on room air. Weight 94.2 kg, height 178 cm, BMI 29.7.
+
+Laboratory findings
+Fasting glucose 7.4 mmol/L. HbA1c 6.8%. Total cholesterol 6.9 mmol/L, LDL 4.5 mmol/L, HDL 0.9 mmol/L, triglycerides 3.1 mmol/L. Serum creatinine 104 umol/L, eGFR 72 mL/min/1.73m2. Urinalysis positive for microalbuminuria (48 mg/g creatinine). Liver enzymes within reference range.
+
+Assessment
+Stage 2 hypertension with evidence of early hypertensive nephropathy. Metabolic syndrome: impaired glucose tolerance bordering on type 2 diabetes mellitus, mixed dyslipidaemia and central obesity. Estimated ten-year cardiovascular risk is high.
+
+Plan
+Start perindopril 5 mg once daily, titrate to 10 mg after four weeks if blood pressure remains above 140/90 mmHg. Start atorvastatin 20 mg nightly. Metformin 500 mg twice daily with meals. Referral to clinical dietitian and structured exercise programme. Home blood pressure diary. Repeat lipid panel, HbA1c and renal function in twelve weeks. Ophthalmology review for hypertensive retinopathy screening.
+
+Notes
+Patient consented to sharing of this record with the cardiology department. Insurance policy HR-4471-20885. Contact: marko.juric@example.hr, +385 91 442 7781. Record prepared by Dr. Ana Kovacevic, licence 118-4420.
+
+GITHUB-RC3-TYPE-TXT-11NOV
+
+--- copy 23 ---
+Patient Case Report
+
+Patient ID: 49217-BZ
+Patient name: Marko Juric
+Date of birth: 14 March 1967
+Attending physician: Dr. Ana Kovacevic, MD - Internal Medicine
+Facility: St. Catherine Clinic, Zagreb
+Visit date: 10 November 2027
+
+Presenting complaint
+Patient presents with recurrent morning headaches, intermittent dizziness and fatigue persisting over the last eleven weeks. Reports two episodes of blurred vision while at work. No chest pain, no shortness of breath at rest.
+
+Vital signs
+Blood pressure 162/98 mmHg (repeat 158/96 mmHg after ten minutes seated). Heart rate 88 bpm, regular. Temperature 36.7 C. Respiratory rate 16/min. Oxygen saturation 98% on room air. Weight 94.2 kg, height 178 cm, BMI 29.7.
+
+Laboratory findings
+Fasting glucose 7.4 mmol/L. HbA1c 6.8%. Total cholesterol 6.9 mmol/L, LDL 4.5 mmol/L, HDL 0.9 mmol/L, triglycerides 3.1 mmol/L. Serum creatinine 104 umol/L, eGFR 72 mL/min/1.73m2. Urinalysis positive for microalbuminuria (48 mg/g creatinine). Liver enzymes within reference range.
+
+Assessment
+Stage 2 hypertension with evidence of early hypertensive nephropathy. Metabolic syndrome: impaired glucose tolerance bordering on type 2 diabetes mellitus, mixed dyslipidaemia and central obesity. Estimated ten-year cardiovascular risk is high.
+
+Plan
+Start perindopril 5 mg once daily, titrate to 10 mg after four weeks if blood pressure remains above 140/90 mmHg. Start atorvastatin 20 mg nightly. Metformin 500 mg twice daily with meals. Referral to clinical dietitian and structured exercise programme. Home blood pressure diary. Repeat lipid panel, HbA1c and renal function in twelve weeks. Ophthalmology review for hypertensive retinopathy screening.
+
+Notes
+Patient consented to sharing of this record with the cardiology department. Insurance policy HR-4471-20885. Contact: marko.juric@example.hr, +385 91 442 7781. Record prepared by Dr. Ana Kovacevic, licence 118-4420.
+
+GITHUB-RC3-TYPE-TXT-11NOV
+
+--- copy 24 ---
+Patient Case Report
+
+Patient ID: 49217-BZ
+Patient name: Marko Juric
+Date of birth: 14 March 1967
+Attending physician: Dr. Ana Kovacevic, MD - Internal Medicine
+Facility: St. Catherine Clinic, Zagreb
+Visit date: 10 November 2027
+
+Presenting complaint
+Patient presents with recurrent morning headaches, intermittent dizziness and fatigue persisting over the last eleven weeks. Reports two episodes of blurred vision while at work. No chest pain, no shortness of breath at rest.
+
+Vital signs
+Blood pressure 162/98 mmHg (repeat 158/96 mmHg after ten minutes seated). Heart rate 88 bpm, regular. Temperature 36.7 C. Respiratory rate 16/min. Oxygen saturation 98% on room air. Weight 94.2 kg, height 178 cm, BMI 29.7.
+
+Laboratory findings
+Fasting glucose 7.4 mmol/L. HbA1c 6.8%. Total cholesterol 6.9 mmol/L, LDL 4.5 mmol/L, HDL 0.9 mmol/L, triglycerides 3.1 mmol/L. Serum creatinine 104 umol/L, eGFR 72 mL/min/1.73m2. Urinalysis positive for microalbuminuria (48 mg/g creatinine). Liver enzymes within reference range.
+
+Assessment
+Stage 2 hypertension with evidence of early hypertensive nephropathy. Metabolic syndrome: impaired glucose tolerance bordering on type 2 diabetes mellitus, mixed dyslipidaemia and central obesity. Estimated ten-year cardiovascular risk is high.
+
+Plan
+Start perindopril 5 mg once daily, titrate to 10 mg after four weeks if blood pressure remains above 140/90 mmHg. Start atorvastatin 20 mg nightly. Metformin 500 mg twice daily with meals. Referral to clinical dietitian and structured exercise programme. Home blood pressure diary. Repeat lipid panel, HbA1c and renal function in twelve weeks. Ophthalmology review for hypertensive retinopathy screening.
+
+Notes
+Patient consented to sharing of this record with the cardiology department. Insurance policy HR-4471-20885. Contact: marko.juric@example.hr, +385 91 442 7781. Record prepared by Dr. Ana Kovacevic, licence 118-4420.
+
+GITHUB-RC3-TYPE-TXT-11NOV
+
+--- copy 25 ---
+Patient Case Report
+
+Patient ID: 49217-BZ
+Patient name: Marko Juric
+Date of birth: 14 March 1967
+Attending physician: Dr. Ana Kovacevic, MD - Internal Medicine
+Facility: St. Catherine Clinic, Zagreb
+Visit date: 10 November 2027
+
+Presenting complaint
+Patient presents with recurrent morning headaches, intermittent dizziness and fatigue persisting over the last eleven weeks. Reports two episodes of blurred vision while at work. No chest pain, no shortness of breath at rest.
+
+Vital signs
+Blood pressure 162/98 mmHg (repeat 158/96 mmHg after ten minutes seated). Heart rate 88 bpm, regular. Temperature 36.7 C. Respiratory rate 16/min. Oxygen saturation 98% on room air. Weight 94.2 kg, height 178 cm, BMI 29.7.
+
+Laboratory findings
+Fasting glucose 7.4 mmol/L. HbA1c 6.8%. Total cholesterol 6.9 mmol/L, LDL 4.5 mmol/L, HDL 0.9 mmol/L, triglycerides 3.1 mmol/L. Serum creatinine 104 umol/L, eGFR 72 mL/min/1.73m2. Urinalysis positive for microalbuminuria (48 mg/g creatinine). Liver enzymes within reference range.
+
+Assessment
+Stage 2 hypertension with evidence of early hypertensive nephropathy. Metabolic syndrome: impaired glucose tolerance bordering on type 2 diabetes mellitus, mixed dyslipidaemia and central obesity. Estimated ten-year cardiovascular risk is high.
+
+Plan
+Start perindopril 5 mg once daily, titrate to 10 mg after four weeks if blood pressure remains above 140/90 mmHg. Start atorvastatin 20 mg nightly. Metformin 500 mg twice daily with meals. Referral to clinical dietitian and structured exercise programme. Home blood pressure diary. Repeat lipid panel, HbA1c and renal function in twelve weeks. Ophthalmology review for hypertensive retinopathy screening.
+
+Notes
+Patient consented to sharing of this record with the cardiology department. Insurance policy HR-4471-20885. Contact: marko.juric@example.hr, +385 91 442 7781. Record prepared by Dr. Ana Kovacevic, licence 118-4420.
+
+GITHUB-RC3-TYPE-TXT-11NOV
+
+--- copy 26 ---
+Patient Case Report
+
+Patient ID: 49217-BZ
+Patient name: Marko Juric
+Date of birth: 14 March 1967
+Attending physician: Dr. Ana Kovacevic, MD - Internal Medicine
+Facility: St. Catherine Clinic, Zagreb
+Visit date: 10 November 2027
+
+Presenting complaint
+Patient presents with recurrent morning headaches, intermittent dizziness and fatigue persisting over the last eleven weeks. Reports two episodes of blurred vision while at work. No chest pain, no shortness of breath at rest.
+
+Vital signs
+Blood pressure 162/98 mmHg (repeat 158/96 mmHg after ten minutes seated). Heart rate 88 bpm, regular. Temperature 36.7 C. Respiratory rate 16/min. Oxygen saturation 98% on room air. Weight 94.2 kg, height 178 cm, BMI 29.7.
+
+Laboratory findings
+Fasting glucose 7.4 mmol/L. HbA1c 6.8%. Total cholesterol 6.9 mmol/L, LDL 4.5 mmol/L, HDL 0.9 mmol/L, triglycerides 3.1 mmol/L. Serum creatinine 104 umol/L, eGFR 72 mL/min/1.73m2. Urinalysis positive for microalbuminuria (48 mg/g creatinine). Liver enzymes within reference range.
+
+Assessment
+Stage 2 hypertension with evidence of early hypertensive nephropathy. Metabolic syndrome: impaired glucose tolerance bordering on type 2 diabetes mellitus, mixed dyslipidaemia and central obesity. Estimated ten-year cardiovascular risk is high.
+
+Plan
+Start perindopril 5 mg once daily, titrate to 10 mg after four weeks if blood pressure remains above 140/90 mmHg. Start atorvastatin 20 mg nightly. Metformin 500 mg twice daily with meals. Referral to clinical dietitian and structured exercise programme. Home blood pressure diary. Repeat lipid panel, HbA1c and renal function in twelve weeks. Ophthalmology review for hypertensive retinopathy screening.
+
+Notes
+Patient consented to sharing of this record with the cardiology department. Insurance policy HR-4471-20885. Contact: marko.juric@example.hr, +385 91 442 7781. Record prepared by Dr. Ana Kovacevic, licence 118-4420.
+
+GITHUB-RC3-TYPE-TXT-11NOV
+
+--- copy 27 ---
+Patient Case Report
+
+Patient ID: 49217-BZ
+Patient name: Marko Juric
+Date of birth: 14 March 1967
+Attending physician: Dr. Ana Kovacevic, MD - Internal Medicine
+Facility: St. Catherine Clinic, Zagreb
+Visit date: 10 November 2027
+
+Presenting complaint
+Patient presents with recurrent morning headaches, intermittent dizziness and fatigue persisting over the last eleven weeks. Reports two episodes of blurred vision while at work. No chest pain, no shortness of breath at rest.
+
+Vital signs
+Blood pressure 162/98 mmHg (repeat 158/96 mmHg after ten minutes seated). Heart rate 88 bpm, regular. Temperature 36.7 C. Respiratory rate 16/min. Oxygen saturation 98% on room air. Weight 94.2 kg, height 178 cm, BMI 29.7.
+
+Laboratory findings
+Fasting glucose 7.4 mmol/L. HbA1c 6.8%. Total cholesterol 6.9 mmol/L, LDL 4.5 mmol/L, HDL 0.9 mmol/L, triglycerides 3.1 mmol/L. Serum creatinine 104 umol/L, eGFR 72 mL/min/1.73m2. Urinalysis positive for microalbuminuria (48 mg/g creatinine). Liver enzymes within reference range.
+
+Assessment
+Stage 2 hypertension with evidence of early hypertensive nephropathy. Metabolic syndrome: impaired glucose tolerance bordering on type 2 diabetes mellitus, mixed dyslipidaemia and central obesity. Estimated ten-year cardiovascular risk is high.
+
+Plan
+Start perindopril 5 mg once daily, titrate to 10 mg after four weeks if blood pressure remains above 140/90 mmHg. Start atorvastatin 20 mg nightly. Metformin 500 mg twice daily with meals. Referral to clinical dietitian and structured exercise programme. Home blood pressure diary. Repeat lipid panel, HbA1c and renal function in twelve weeks. Ophthalmology review for hypertensive retinopathy screening.
+
+Notes
+Patient consented to sharing of this record with the cardiology department. Insurance policy HR-4471-20885. Contact: marko.juric@example.hr, +385 91 442 7781. Record prepared by Dr. Ana Kovacevic, licence 118-4420.
+
+GITHUB-RC3-TYPE-TXT-11NOV
+
+GITHUB-RC3-TYPE-TXT-11NOV
